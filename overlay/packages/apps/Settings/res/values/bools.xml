@@ -18,7 +18,4 @@
     <!-- Show dock settings when docked -->
     <bool name="has_dock_settings">true</bool>
 
-    <!-- Enable user management -->
-    <bool name="enable_user_management">true</bool>
-
 </resources>
