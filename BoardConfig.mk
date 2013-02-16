@@ -38,7 +38,6 @@ BOARD_KERNEL_BASE := 0x80000000
 # BOARD_KERNEL_CMDLINE :=
 TARGET_KERNEL_CONFIG := ProjectElite_tuna_defconfig
 TARGET_KERNEL_SOURCE := kernel/samsung/tuna
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := linaro
 TARGET_PREBUILT_KERNEL := device/samsung/tuna/kernel
 
 TARGET_NO_RADIOIMAGE := true
